@@ -13,7 +13,7 @@ local rs = game:GetService("ReplicatedStorage")
 local vim = game:GetService("VirtualInputManager")
 
 -- [ KEY SYSTEM ]
-local Correct_Key = "bk3465"
+local Correct_Key = "bk1415"
 local Link_Get_Key_VN = "https://link4m.com/xT7MvplN" 
 local Link_Get_Key_EN = "https://loot-link.com/s?kQSRO40E" 
 
